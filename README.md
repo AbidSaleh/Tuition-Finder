@@ -25,7 +25,7 @@ the file manual.docx contains short demonstration and user manual of the project
 
 Use case diagram:
 
- ![alt text](https://github.com/AbidSaleh/Tuition-Finder/blob/master/resources/diagrams/Use_Case_Diagram.png)
+ <img src="https://github.com/AbidSaleh/Tuition-Finder/blob/master/resources/diagrams/Use_Case_Diagram.png" width="600" height="400">
 
 
 Activitiy Diagram :
@@ -35,7 +35,7 @@ Activitiy Diagram :
 
 Class Diagram:
 
-![alt text](https://github.com/AbidSaleh/Tuition-Finder/blob/master/resources/diagrams/Class_Diagram.png)
+<img src="https://github.com/AbidSaleh/Tuition-Finder/blob/master/resources/diagrams/Class_Diagram.png" width="700" height="700">
  
 
 
